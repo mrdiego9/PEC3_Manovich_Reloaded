@@ -1,32 +1,34 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
+# PEC3: Visionando el futuro con las gafas de Manovich
 
-### Recurso de aprendizaje de Cultura Digital 
-
-
-Autor: 
+### Recurso de aprendizaje de Cultura Digital
 
 
-Fecha: 
+Autor: Diego Domínguez Sánchez
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+
+Fecha: Mayo 2026
+
 
 
 
 ## Planteamiento
 
+En *El software toma el mando* (2013), Lev Manovich analiza cómo el software transforma los medios tradicionales y da lugar a nuevas formas híbridas de representación e interacción. Para Manovich, la hibridación de medios no consiste únicamente en la combinación de formatos multimedia, sino en la fusión de técnicas, interfaces y lenguajes procedentes de distintos medios que terminan generando una nueva experiencia coherente e integrada.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+La evolución del software y de las interfaces digitales ha permitido que medios anteriormente separados —como la música, el diseño visual, el videojuego, el streaming o el análisis de datos— puedan converger dentro de un mismo entorno interactivo. En este contexto, el ordenador deja de ser simplemente una herramienta y se convierte en una plataforma cultural capaz de producir nuevos lenguajes y experiencias.
 
-
-## Re-descubriendo la hibridacion: Caso 1
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+En este ensayo se analizarán dos casos contemporáneos de hibridación desde la perspectiva de Manovich: Reactable y Peloton. Ambos ejemplos muestran cómo el software modifica la experiencia musical y deportiva mediante interfaces híbridas, visualización de datos en tiempo real, interacción física y participación digital. A través de estos casos se estudiará cómo las técnicas y lógicas de medios distintos se fusionan para crear nuevas formas de interacción imposibles fuera del entorno computacional.
 
 
+## Re-descubriendo la hibridacion: Reactable
 
-## Re-descubriendo la hibridacion: Caso 2
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+
+## Re-descubriendo la hibridacion: Peloton
+
+
 
 
 ### Referencias y Bibliografía
@@ -36,4 +38,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. 
