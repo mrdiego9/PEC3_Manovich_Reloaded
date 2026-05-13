@@ -52,12 +52,31 @@ Como conclusión, Reactable representa perfectamente la idea de Manovich de que 
 
 ---
 
+# Re-descubriendo la hibridación: Peloton
+![Imagen Peloton](https://palco23.mundodeportivo.com/thumb/eyJ0IjoiYyIsInciOjk4MCwiaCI6NTUxLCJ4IjowLCJ5Ijo5LCJjdyI6OTgwLCJjaCI6MzUwLCJ2IjoiMS4wLjE5In0/palco23/files/2026/20-equipamiento/peloton/peloton-bike-interior-1200.png)
 
 
+## Del ejercicio físico al entorno mediático interactivo
+Peloton es una plataforma de fitness conectada que combina bicicletas estáticas inteligentes, clases retransmitidas en streaming, métricas biométricas en tiempo real y dinámicas propias de las redes sociales y la gamificación. Aunque en principio pueda parecer una evolución tecnológica del entrenamiento doméstico tradicional, desde la perspectiva de Manovich se puede entender como un claro ejemplo de hibridación de medios donde el deporte, la visualización de datos, el entretenimiento audiovisual y la interacción digital se fusionan en una única experiencia conectada. 
 
+A diferencia de una bicicleta estática convencional, Peloton no funciona solo como una máquina de ejercicio, sino que la pantalla integrada, las clases en directo, los rankings en tiempo real o la interacción con otros usuarios convierten el entrenamiento en una **experiencia mediática híbrida** donde el software organiza constantemente la relación entre cuerpo, interfaz y datos. El usuario participa en un entorno digital que une elementos del streaming, los videojuegos online y las plataformas sociales. 
 
-## Re-descubriendo la hibridacion: Peloton
+Uno de los aspectos que me parece más interesante de Peloton es cómo las métricas biométricas dejan de ser simples datos técnicos y se convierten en la parte central de la experiencia visual e interactiva. Todos estos datos, como la velocidad, frecuencia cardíaca o posición en la clasificación aparecen constantemente en la pantalla y cambian la manera en la que el usuario percibe el ejercicio. Desde las "gafas de Manovich", esto supone una nueva forma de representación híbrida donde el cuerpo y la información digital funcionan de manera simultánea dentro de una misma interfaz. 
 
+Por tanto, Peloton ejemplifica cómo el software transforma prácticas tradicionales en nuevas plataformas culturales. El ejercicio físico deja de ser una actividad individual y aislada para convertirse en una experiencia colectiva, conectada y mediada algorítmicamente. La bicicleta pasa a ser una interfaz híbrida capaz de integrar streaming audiovisual, visualización de datos y participación social en tiempo real. 
+
+## Datos, gamificación y experiencia colectiva
+Uno de los elementos que mejor representan la hibridación en Peloton es la incorporación de dinámicas propias de los videojuegos y las redes sociales dentro de la práctica deportiva. Durante los entrenamientos, los usuarios pueden comparar su rendimiento con el de otros participantes, recibir recompensas virtuales o seguir a otros miembros de la plataforma. El entrenamiento pasa a formar parte de una experiencia colectiva mediada por algoritmos e interfaces digitales. 
+
+Desde la perspectiva de Manovich, esta integración de datos, competición y participación online demuestra cómo el software permite combinar técnicas procedentes de medios diferentes hasta generar nuevas **formas culturales híbridas**. Elementos propios de los videojuegos, como los rankings, la retroalimentación o los sistemas de recompensa, se fusionan con prácticas tradicionales del deporte. Como resultado, la experiencia física se transforma en una actividad constantemente cuantificada, visualizada y compartida digitalmente. 
+
+La estética de la interfaz también juega un papel fundamental. Las gráficas, métricas en tiempo real y la organización visual de la pantalla recuerdan a aplicaciones deportivas, plataformas de streaming o videojuegos competitivos. Esto hace que el usuario no solo interactúe con una bici estática, sino con un entorno audiovisual diseñado para mantener la atención y reforzar esa sensación de participación continua. 
+
+Por tanto, Peloton refleja cómo el software contemporáneo ya no se limita solo a representar la realidad, sino que reorganiza la manera en la que experimentamos actividades cotidianas como el deporte. La actividad física ahora es una experiencia híbrida donde cuerpo, datos, interfaz y comunidad digital funcionan simultáneamente dentro de una misma plataforma conectada.
+
+---
+
+# Conclusiones
 
 
 
