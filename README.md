@@ -91,7 +91,7 @@ Por último, quería hacer una breve mención a la plataforma donde hemos realiz
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC.
-* Manovich, Lev. (2001). *El lenguaje de los nuevos medios de comunicación*. Barcelona: Paidós.
+* Gea, M. (2022). *Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto*. Barcelona: Editorial UOC.
 * Reactable. https://reactable.com
 * Peloton. https://www.onepeloton.com
 * Vídeo Reactable. https://www.youtube.com/watch?v=hNeCHI4NAzw
