@@ -42,7 +42,7 @@ Además, Reactable supone un claro ejemplo de cómo el software transforma objet
 ## La visualización y el sonido como un único lenguaje interactivo
 Uno de los aspectos más interesantes de Reactable es que la visualización no funciona como un simple complemento estético, sino como una parte inseparable de la propia experiencia musical. Cada objeto colocado sobre la mesa genera representaciones gráficas dinámicas que nos permiten visualizar en tiempo real cómo se conectan, modifican y transforman los distintos módulos sonoros. El usuario, además de escuchar la música, puede "leer" visualmente el comportamiento del sistema mientras interactúa con él. 
 
-Esto supone, desde las gafas de Manovich, una nueva forma de representación híbrida donde desaparecen las fronteras tradicionales entre imagen, interfaz y sonido. La música deja de ser un fenómeno únicamente auditivo para convertirse también en una experiencia visual e interactiva, y la interfaz pasa a formar parte del propio lenguaje audiovisual. 
+Esto supone, desde las "gafas de Manovich", una nueva forma de representación híbrida donde desaparecen las fronteras tradicionales entre imagen, interfaz y sonido. La música deja de ser un fenómeno únicamente auditivo para convertirse también en una experiencia visual e interactiva, y la interfaz pasa a formar parte del propio lenguaje audiovisual. 
 
 Además, Reactable introduce una **lógica modular**, uno de los principios fundamentales que Manovich atribuye a los nuevos medios digitales. Cada bloque físico funciona como un módulo independiente con funciones específicas que se reorganizan y recombinan constantemente para generar nuevas estructuras musicales y visuales. Esto hace que la experiencia sea siempre dinámica y variable dependiendo de la interacción del usuario. 
 
@@ -61,7 +61,7 @@ Peloton es una plataforma de fitness conectada que combina bicicletas estáticas
 
 A diferencia de una bicicleta estática convencional, Peloton no funciona solo como una máquina de ejercicio, sino que la pantalla integrada, las clases en directo, los rankings en tiempo real o la interacción con otros usuarios convierten el entrenamiento en una **experiencia mediática híbrida** donde el software organiza constantemente la relación entre cuerpo, interfaz y datos. El usuario participa en un entorno digital que une elementos del streaming, los videojuegos online y las plataformas sociales. 
 
-Uno de los aspectos que me parece más interesante de Peloton es cómo las métricas biométricas dejan de ser simples datos técnicos y se convierten en la parte central de la experiencia visual e interactiva. Todos estos datos, como la velocidad, frecuencia cardíaca o posición en la clasificación aparecen constantemente en la pantalla y cambian la manera en la que el usuario percibe el ejercicio. Desde las "gafas de Manovich", esto supone una nueva forma de representación híbrida donde el cuerpo y la información digital funcionan de manera simultánea dentro de una misma interfaz. 
+Uno de los aspectos que me parece más interesante de Peloton es cómo las métricas biométricas dejan de ser simples datos técnicos y se convierten en la parte central de la experiencia visual e interactiva. Todos estos datos, como la velocidad, la frecuencia cardíaca o la posición en la clasificación, aparecen constantemente en la pantalla y cambian la manera en la que el usuario percibe el ejercicio. Desde las "gafas de Manovich", esto supone una nueva forma de representación híbrida donde el cuerpo y la información digital funcionan de manera simultánea dentro de una misma interfaz. 
 
 Por tanto, Peloton ejemplifica cómo el software transforma prácticas tradicionales en nuevas plataformas culturales. El ejercicio físico deja de ser una actividad individual y aislada para convertirse en una experiencia colectiva, conectada y mediada algorítmicamente. La bicicleta pasa a ser una interfaz híbrida capaz de integrar streaming audiovisual, visualización de datos y participación social en tiempo real. 
 
@@ -79,13 +79,13 @@ Por tanto, Peloton refleja cómo el software contemporáneo ya no se limita solo
 # Conclusiones
 Tras realizar este análisis de Reactable y Peloton, queda claro que ambos casos muestran cómo el software ya no funciona únicamente como una herramienta técnica, sino como un entorno capaz de reorganizar la experiencia musical, deportiva y visual mediante nuevas formas de interacción híbrida. 
 
-En el caso de Reactable, la música, la visualización y la interacción física terminan fusionándose hasta crear un nuevo lenguaje audiovisual imposible fuera del entorno computacional. Por otro lado, Peloton demuestra cómo el deporte se transforma en una experiencia conectada donde streaming, datos biométricos, gamificación y participación social funcionan simultáneamente detro de una misma interfaz. 
+En el caso de Reactable, la música, la visualización y la interacción física terminan fusionándose hasta crear un nuevo lenguaje audiovisual imposible fuera del entorno computacional. Por otro lado, Peloton demuestra cómo el deporte se transforma en una experiencia conectada donde streaming, datos biométricos, gamificación y participación social funcionan simultáneamente dentro de una misma interfaz. 
 
-Personalmente, solo conocía un poco de Reactable, y he elegido estos casos por su relación con la música y el deporte. Me ha parecido interesane analizar cómo las tecnologías actuales ya no se pueden entender simplemente como multimedia o remediación de medios anteriores. Como plantea Manovich, el software permite que técnicas y lógicas procedentes de medios diferentes se combinen para generar nuevas experiencias culturales. 
+Personalmente, solo conocía un poco de Reactable, y he elegido estos casos por su relación con la música y el deporte. Me ha parecido interesante analizar cómo las tecnologías actuales ya no se pueden entender simplemente como multimedia o remediación de medios anteriores. Como plantea Manovich, el software permite que técnicas y lógicas procedentes de medios diferentes se combinen para generar nuevas experiencias culturales. 
 
 Además, estos casos muestran cómo el ordenador y el software han evolucionado hacia plataformas culturales capaces de generar nuevos lenguajes y maneras de interactuar con el entorno físico y digital. Probablemente, si Manovich escribiese hoy una nueva versión de *El software toma el mando*, tendría que analizar cómo tecnologías como la visualización en tiempo real, la gamificación o las interfaces híbridas continúan transformando nuestra relación con la cultura digital contemporánea.
 
-Por último, quería hacer una breve mención a la plataforma donde hemos realizado este trabajo, Github. No la había usado antes y me parece muy interesante su uso a la hora de compartir y reutilizar contenido. 
+Por último, quería hacer una breve mención a la plataforma donde hemos realizado este trabajo, GitHub. No la había usado antes y me parece muy interesante su uso a la hora de compartir y reutilizar contenido. 
 
 
 ### Referencias y Bibliografía
@@ -94,10 +94,13 @@ Por último, quería hacer una breve mención a la plataforma donde hemos realiz
 * Manovich, Lev. (2001). *El lenguaje de los nuevos medios de comunicación*. Barcelona: Paidós.
 * Reactable. https://reactable.com
 * Peloton. https://www.onepeloton.com
+* Vídeo Reactable. https://www.youtube.com/watch?v=hNeCHI4NAzw
+* Imagen Peloton. https://palco23.mundodeportivo.com/equipamiento/peloton-sale-del-home-fitness-y-lanza-productos-para-gimnasios-de-uso-intensivo
 
 ---
 
 ### Declaración de uso de la IA
+En esta actividad se ha utilizado ChatGPT como herramienta de apoyo a la hora de organizar ideas, revisar textos y para la organización y publicación del trabajo en GitHub.
 
 ---
 
