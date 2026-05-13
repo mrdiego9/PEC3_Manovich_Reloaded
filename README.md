@@ -77,14 +77,28 @@ Por tanto, Peloton refleja cómo el software contemporáneo ya no se limita solo
 ---
 
 # Conclusiones
+Tras realizar este análisis de Reactable y Peloton, queda claro que ambos casos muestran cómo el software ya no funciona únicamente como una herramienta técnica, sino como un entorno capaz de reorganizar la experiencia musical, deportiva y visual mediante nuevas formas de interacción híbrida. 
 
+En el caso de Reactable, la música, la visualización y la interacción física terminan fusionándose hasta crear un nuevo lenguaje audiovisual imposible fuera del entorno computacional. Por otro lado, Peloton demuestra cómo el deporte se transforma en una experiencia conectada donde streaming, datos biométricos, gamificación y participación social funcionan simultáneamente detro de una misma interfaz. 
+
+Personalmente, solo conocía un poco de Reactable, y he elegido estos casos por su relación con la música y el deporte. Me ha parecido interesane analizar cómo las tecnologías actuales ya no se pueden entender simplemente como multimedia o remediación de medios anteriores. Como plantea Manovich, el software permite que técnicas y lógicas procedentes de medios diferentes se combinen para generar nuevas experiencias culturales. 
+
+Además, estos casos muestran cómo el ordenador y el software han evolucionado hacia plataformas culturales capaces de generar nuevos lenguajes y maneras de interactuar con el entorno físico y digital. Probablemente, si Manovich escribiese hoy una nueva versión de *El software toma el mando*, tendría que analizar cómo tecnologías como la visualización en tiempo real, la gamificación o las interfaces híbridas continúan transformando nuestra relación con la cultura digital contemporánea.
+
+Por último, quería hacer una breve mención a la plataforma donde hemos realizado este trabajo, Github. No la había usado antes y me parece muy interesante su uso a la hora de compartir y reutilizar contenido. 
 
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC.
+* Manovich, Lev. (2001). *El lenguaje de los nuevos medios de comunicación*. Barcelona: Paidós.
+* Reactable. https://reactable.com
+* Peloton. https://www.onepeloton.com
 
+---
 
-----
+### Declaración de uso de la IA
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. 
+---
+
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
